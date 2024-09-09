@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdavis24
 - 👀 I’m interested in learning advanced coding practices as well as professional standards
-- 🌱 I’m currently learning Python, C++, Java, SML, SQL
+- 🌱 I’m currently learning Python, C++, Java, SML, SQL, HTML, and CSS
 - 📫 How to reach me: LinkedIn @tdavis24
 - 😄 Pronouns: he/him
 - 🏫 Currently a senior at Illinois State University
